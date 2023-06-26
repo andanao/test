@@ -1,0 +1,3 @@
+[submodule "shell/shell_globals"]
+	path = shell/shell_globals
+	url = https://github.com/andanao/shell_globals.git
